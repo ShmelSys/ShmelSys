@@ -21,9 +21,8 @@ A **lifelong learner**, specializing in Machine Learning and building niche, hig
   - *Stack:* TensorFlow, Keras-->
 
 ### Current Projects
-- ...
-  <!--**[Nom du Projet en cours](lien-vers-le-repo)** : Description de ce que tu es en train de développer ou d'apprendre (ex: *Implémentation d'un réseau de neurones pour la vision par ordinateur*).
-  - *Stack:* Python, TensorFlow-->
+- **[Bcontrol](lien-vers-le-repo)** : Description de ce que tu es en train de développer ou d'apprendre (ex: *Implémentation d'un réseau de neurones pour la vision par ordinateur*).
+  - *Stack:* Python, JavaSript
 
 ---
 
